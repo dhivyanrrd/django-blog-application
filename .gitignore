@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+
+# Local sqlite db (safety)
+db.sqlite3
+
+# Uploaded media
+media/
+
+# Collected static files
+staticfiles/
